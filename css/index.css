@@ -171,6 +171,8 @@ img {
 .navigation {
   border-bottom: 2px dashed #C0C0C0;
   width: 100%;
+  position: fixed;
+  background: white;
 }
 .navigation .holder {
   max-width: 800px;
@@ -230,6 +232,7 @@ img {
 }
 .home .header-content {
   border-bottom: 2px dashed #C0C0C0;
+  padding-top: 9rem;
 }
 .home .header-content .header-text {
   margin: 2rem 0;
